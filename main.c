@@ -15,6 +15,7 @@ int main(int argc, char const *argv[])
 
 do
 {
+    printf("Plus ou moins ? Trouvez un chiffre mystère entre 0 et 100\n\n");
     printf("Quel nombre ? "); // Demande d'entrer un nombre
     scanf("%d", &nombreEntre); // Le stocke
 
