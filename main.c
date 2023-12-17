@@ -17,7 +17,7 @@ do
 {
     printf("Plus ou moins ? Trouvez un chiffre mystère entre 0 et 100\n\n");
     printf("Quel nombre ? "); // Demande d'entrer un nombre
-    scanf("%d", &nombreEntre); // Le stocke
+    scanf("%d", &nombreEntre); // Le stock
 
     if (nombreEntre < nombreMystere) // SI Comparaison ok,
         printf("C'est plus!\n"); // Action
