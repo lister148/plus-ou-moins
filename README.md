@@ -1,4 +1,4 @@
-# Hi, I'm listerkiss! 👋
+# Hi, I'm lister! 👋
 
 
 # Plus ou moins ?
@@ -30,9 +30,9 @@ I accept all constructive comments ;-)
 Mail : [listerkiss@gmail.com](mailto:listerkiss@gmail.com)
 
 
-## Authors
+## ✍🏻 Authors
 
-- [@listerkiss](https://www.github.com/listerkiss)
+- [@lister148](https://www.github.com/lister148)
 
 
 ## 🚀 About Me
@@ -40,5 +40,6 @@ Mail : [listerkiss@gmail.com](mailto:listerkiss@gmail.com)
 Autodidact in free time...
 
 
-## 🔗 Links WIP
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/listerkiss)
+## 🔗 Links
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lister148)
